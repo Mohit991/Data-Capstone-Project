@@ -26,7 +26,7 @@ df = pd.read_csv('911.csv')
 #
 
 
-# q1: what are the top five zipcodes for the 911 calls?
+# q1: what are the top five zipcodes for the 911 calls? Lets see
 
 
 # print(df['zip'].value_counts()) #this line willl give us the occurence or count of all the zip codes. how many times each zip
